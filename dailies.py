@@ -11,9 +11,10 @@ from selenium.webdriver.common.action_chains import ActionChains
 import time
 import psutil
 
-NFTItemsPage = "https://blastr.xyz/discovery-pass/my-items"
-NFTMintPage = "https://blastr.xyz/discovery-pass/about"
-HuddlePage = "https://www.huddle.wtf/profile/"
+# deprecated websites went here
+NFTItemsPage = ""
+NFTMintPage = ""
+HuddlePage = ""
 
 chromepath = r'/opt/homebrew/bin/chromedriver'
 
