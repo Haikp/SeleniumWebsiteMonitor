@@ -10,8 +10,9 @@ from selenium.common.exceptions import ElementNotInteractableException, TimeoutE
 import time
 import psutil
 
-NFTMintPage = "https://blastr.xyz/huddle/about"
-NFTActivityPage = "https://blastr.xyz/huddle/activity"
+# deprecated sites went here
+NFTMintPage = ""
+NFTActivityPage = ""
 
 chromepath = r'/opt/homebrew/bin/chromedriver'
 
